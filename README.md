@@ -12,6 +12,7 @@ mvn clean install
 ```
 
 ## Usage
+In order to use the archetype to create a new project, you should run the following maven command:
 
 ```markdown
 mvn archetype:generate \

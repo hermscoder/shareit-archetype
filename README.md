@@ -1,6 +1,6 @@
-# Foobar
+# ShareIt Archetype
 
-Shareit Archetype is an archetype with the goal to unify and improve the way new microservices are built for the shareit
+ShareIt Archetype is an archetype with the goal to unify and improve the way new microservices are built for the shareit
 platform. 
 
 ## Installation
